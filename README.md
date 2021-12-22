@@ -2,7 +2,5 @@
 
 ##### Descrição:
 
-Repositório onde apresento minhas técnicas de estudo que favorecem meu crescimento como
-
-desenvolvedor.
+Repositório onde apresento  meu crescimento como desenvolvedor.
 
